@@ -6,4 +6,4 @@ Rip Cayde-6
   - accounting for popular community maps
 
 - Classic Sounds Mod
-  -adding reload sounds to most weapons
+  - adding reload sounds to most weapons
