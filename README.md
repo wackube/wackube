@@ -1,9 +1,4 @@
 # Wackube
-Rip Cayde-6
+I even had the pink polo I thought I was wackube.
 
 ## Active Projects
-- dev-texture mod
-  - accounting for popular community maps
-
-- Classic Sounds Mod
-  - adding reload sounds to most weapons
